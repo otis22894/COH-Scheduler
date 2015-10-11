@@ -1,0 +1,7 @@
+A Williams 13 05 05 0500 0800 F S SU
+A Williams 13 05 10 0500 0900 T Th
+JJ Williams 13 05 05 0 0 F
+A Williams 13 05 03 0 0 W
+A Williams 13 05 01 0 0 M
+A Williams 13 05 01 0 0 M T
+AA Williams 13 05 06 500 800 S Su
